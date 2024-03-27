@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FindAnimal</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Crie uma Conta Clicando Aqui</string>
+    <string name="title_cadastro">Formulario de Cadastro </string>
+
+</resources>
